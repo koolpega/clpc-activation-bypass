@@ -1,0 +1,5 @@
+pygetwindow
+pyautogui
+mitmproxy
+pillow
+opencv-python
